@@ -22,4 +22,8 @@ function App() {
   );
 }
 
+function sayHello(){
+  alert("Hello");
+}
+
 export default App;
